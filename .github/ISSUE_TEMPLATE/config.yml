@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links: []
+  # При появлении ссылки на чат поддержки:
+  # - name: Вопросы в Telegram
+  #   url: https://t.me/...
+  #   about: Не для багов в коде — только обсуждение

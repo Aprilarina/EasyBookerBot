@@ -1,0 +1,34 @@
+name: Сообщение об ошибке
+description: Неправильное поведение кода или развёртывания
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Что произошло
+      description: Фактическое поведение
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Ожидалось
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Шаги воспроизведения
+      placeholder: "1. …\n2. …"
+    validations:
+      required: true
+  - type: input
+    id: python
+    attributes:
+      label: Версия Python
+      placeholder: "3.11"
+  - type: input
+    id: os
+    attributes:
+      label: ОС
+      placeholder: "macOS / Linux / Windows"

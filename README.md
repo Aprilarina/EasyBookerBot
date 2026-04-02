@@ -1,5 +1,8 @@
 # EasyBooker
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/Aprilarina/EasyBookerBot/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Aprilarina/EasyBookerBot/actions/workflows/ci.yml)
+
 Telegram-бот и HTTP API для записи на услуги автомоек: бронирование, роли пользователя и администратора, интеграция с веб-приложением (мини-приложение Telegram).
 
 **Репозиторий:** [github.com/Aprilarina/EasyBookerBot](https://github.com/Aprilarina/EasyBookerBot)
@@ -21,15 +24,25 @@ Telegram-бот и HTTP API для записи на услуги автомое
 | Происхождение кода | [docs/ATTRIBUTION.md](docs/ATTRIBUTION.md) |
 | Публикация на GitHub | [docs/GITHUB_PUBLISH.md](docs/GITHUB_PUBLISH.md) |
 
+## Участие и безопасность
+
+| Документ | Назначение |
+|----------|------------|
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Как предлагать PR и issues |
+| [SECURITY.md](SECURITY.md) | Как сообщить об уязвимости приватно |
+
 ## Структура репозитория
 
 ```
 EasyBooker/
-├── app/                 # Приложение FastAPI, aiogram, DAO, миграции Alembic
-├── docs/                # Документация репозитория
+├── app/                 # FastAPI, aiogram, DAO, миграции Alembic
+├── docs/                # Документация
+├── .github/             # CI, Dependabot, шаблоны Issues / PR
 ├── alembic.ini
 ├── requirements.txt
-├── .env.example         # Шаблон переменных окружения (скопируйте в .env)
+├── .env.example
+├── CONTRIBUTING.md
+├── SECURITY.md
 └── LICENSE
 ```
 
@@ -44,7 +57,7 @@ EasyBooker/
 
 ## Безопасность
 
-Не коммитьте файл `.env` и токены бота. В репозитории есть только `.env.example`.
+Не коммитьте файл `.env` и токены бота. В репозитории есть только `.env.example`. См. [SECURITY.md](SECURITY.md).
 
 ## Важно
 
