@@ -12,4 +12,4 @@ alembic==1.14.1
 pillow==11.1.0
 redis==5.2.1
 fastapi-cache2==0.2.2
-PyJWT==2.10.1
+PyJWT==2.12.1
