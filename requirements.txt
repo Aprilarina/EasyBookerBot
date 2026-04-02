@@ -1,0 +1,15 @@
+aiogram==3.13.1
+fastapi==0.115.0
+pydantic==2.9.2
+sqlalchemy==2.0.38
+uvicorn==0.31.0
+jinja2==3.1.4
+pydantic_settings==2.5.2
+loguru==0.7.2
+asyncpg==0.30.0
+pytz==2024.2
+alembic==1.14.1
+pillow==11.1.0
+redis==5.2.1
+fastapi-cache2==0.2.2
+PyJWT==2.10.1
