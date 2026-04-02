@@ -2,6 +2,8 @@
 
 Telegram-бот и HTTP API для записи на услуги автомоек: бронирование, роли пользователя и администратора, интеграция с веб-приложением (мини-приложение Telegram).
 
+**Репозиторий:** [github.com/Aprilarina/EasyBookerBot](https://github.com/Aprilarina/EasyBookerBot)
+
 ## Рабочий бот в Telegram
 
 Публичный бот **работает** и доступен в Telegram: **[@easybooker_bot](https://t.me/easybooker_bot)**

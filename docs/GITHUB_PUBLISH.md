@@ -1,6 +1,8 @@
 # Как опубликовать репозиторий на GitHub
 
-Локально уже выполнены `git init` и первый коммит в каталоге `EasyBooker/`. Осталось создать пустой репозиторий на GitHub и отправить код.
+**Текущий канонический репозиторий:** [Aprilarina/EasyBookerBot](https://github.com/Aprilarina/EasyBookerBot)
+
+Локально уже выполнены `git init` и коммиты в каталоге `EasyBooker/`. Ниже — инструкция, если нужно подключить другой remote или клонировать заново.
 
 ## Вариант A: веб-интерфейс
 
@@ -11,7 +13,7 @@
 
 ```bash
 cd /path/to/EasyBooker
-git remote add origin https://github.com/<YOUR_USER>/EasyBooker.git
+git remote add origin https://github.com/Aprilarina/EasyBookerBot.git
 git push -u origin main
 ```
 
