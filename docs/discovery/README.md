@@ -7,5 +7,3 @@
 | Документ | Содержание |
 |----------|------------|
 | [EASYBOOKER_DISCOVERY.md](./EASYBOOKER_DISCOVERY.md) | Полная выжимка discovery в одном файле |
-
-Внешняя доска (если доступна): [Holst — документация](https://app.holst.so/share/b/e9f74409-db54-4fca-b19b-796eff42a3ad).
