@@ -21,7 +21,6 @@ Telegram-бот и HTTP API для записи на услуги автомое
 |--------|--------|
 | **Discovery: сценарии, SWOT, рынок, ТЗ** | [docs/discovery/](docs/discovery/EASYBOOKER_DISCOVERY.md) |
 | Запуск и окружение | [docs/SETUP.md](docs/SETUP.md) |
-| Происхождение кода | [docs/ATTRIBUTION.md](docs/ATTRIBUTION.md) |
 
 ## Участие и безопасность
 
