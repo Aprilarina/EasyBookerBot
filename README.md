@@ -12,14 +12,11 @@ Telegram-бот и HTTP API для записи на услуги автомое
 
 Проект распространяется под лицензией **MIT** — см. файл [`LICENSE`](LICENSE).
 
-Сервис EasyBooker создан по техническому заданию заказчика (правообладателя). Исходный код изначально разрабатывался в репозитории [Yakvenalex/EasyBookerBot](https://github.com/Yakvenalex/EasyBookerBot); правообладатель публикует открытую копию для сообщества.
-
 ## Документация
 
 | Ресурс | Ссылка |
 |--------|--------|
-| Продуктовая документация (Holst) | [app.holst.so — EasyBooker](https://app.holst.so/share/b/e9f74409-db54-4fca-b19b-796eff42a3ad) |
-| **Discovery (обезличенно): сценарии, SWOT, рынок, ТЗ** | [docs/discovery/](docs/discovery/README.md) |
+| **Discovery: сценарии, SWOT, рынок, ТЗ** | [docs/discovery/](docs/discovery/README.md) |
 | Запуск и окружение | [docs/SETUP.md](docs/SETUP.md) |
 | Происхождение кода | [docs/ATTRIBUTION.md](docs/ATTRIBUTION.md) |
 | Публикация на GitHub | [docs/GITHUB_PUBLISH.md](docs/GITHUB_PUBLISH.md) |
