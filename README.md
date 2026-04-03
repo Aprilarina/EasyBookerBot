@@ -82,6 +82,8 @@ Telegram-бот и HTTP API для записи на услуги автомое
 |----------|------------|
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Как предлагать PR и issues |
 | [SECURITY.md](SECURITY.md) | Как сообщить об уязвимости приватно |
+| Карта клиентского пути | [CJM](https://disk.yandex.ru/i/ixtcHIJuRdVQDw) |
+| [Презентация продукта](EasyBooker™.pdf) | Презентация продукта|
 
 ## Структура репозитория
 
